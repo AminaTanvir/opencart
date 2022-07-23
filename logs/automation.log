@@ -1,0 +1,119 @@
+17:54:18.089 [main] INFO  testCases.TC_002_Login - starting TC_002_Login......
+17:54:22.716 [main] INFO  testCases.TC_002_Login - Clicked on login
+17:54:22.804 [main] INFO  testCases.TC_002_Login - provided email
+17:54:22.877 [main] INFO  testCases.TC_002_Login - provided password
+17:54:23.745 [main] INFO  testCases.TC_002_Login - clicked on login
+17:54:23.812 [main] INFO  testCases.TC_002_Login - Login success
+17:54:23.813 [main] INFO  testCases.TC_002_Login - finished TC_002_Login
+18:48:41.876 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+18:48:42.393 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+18:48:42.393 [main] INFO  testCases.TC_001_AccountRegistration - opening app url.....
+18:48:50.015 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on Registration link
+18:48:56.451 [main] INFO  testCases.TC_001_AccountRegistration - Providing user details.....
+18:49:00.089 [main] INFO  testCases.TC_001_AccountRegistration - Provided first Name
+18:49:00.201 [main] INFO  testCases.TC_001_AccountRegistration - Provided last name
+18:49:00.421 [main] INFO  testCases.TC_001_AccountRegistration -  provide email
+18:49:00.530 [main] INFO  testCases.TC_001_AccountRegistration - providing password
+18:49:00.611 [main] INFO  testCases.TC_001_AccountRegistration - providing confirm password
+18:49:07.317 [main] INFO  testCases.TC_001_AccountRegistration - Registration going on
+18:49:07.360 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success
+18:49:07.363 [main] INFO  testCases.TC_001_AccountRegistration - logging out from user details.....
+18:49:08.875 [main] INFO  testCases.TC_001_AccountRegistration - logging out from my account
+18:49:08.876 [main] INFO  testCases.TC_001_AccountRegistration - Finished testcase of TC_001_AccountRegistration
+18:49:13.435 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+18:49:13.442 [main] INFO  testCases.TC_002_Login - starting TC_002_Login......
+18:49:22.417 [main] INFO  testCases.TC_002_Login - Clicked on login
+18:49:22.562 [main] INFO  testCases.TC_002_Login - provided email
+18:49:22.648 [main] INFO  testCases.TC_002_Login - provided password
+18:49:23.323 [main] INFO  testCases.TC_002_Login - clicked on login
+18:49:33.356 [main] ERROR testCases.TC_002_Login - login failed
+20:19:41.382 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+20:19:41.484 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+20:19:41.484 [main] INFO  testCases.TC_001_AccountRegistration - opening app url.....
+20:19:47.295 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on Registration link
+20:19:48.201 [main] INFO  testCases.TC_001_AccountRegistration - Providing user details.....
+20:19:48.396 [main] INFO  testCases.TC_001_AccountRegistration - Provided first Name
+20:19:48.491 [main] INFO  testCases.TC_001_AccountRegistration - Provided last name
+20:19:48.687 [main] INFO  testCases.TC_001_AccountRegistration -  provide email
+20:19:48.763 [main] INFO  testCases.TC_001_AccountRegistration - providing password
+20:19:48.860 [main] INFO  testCases.TC_001_AccountRegistration - providing confirm password
+20:19:49.993 [main] INFO  testCases.TC_001_AccountRegistration - Registration going on
+20:19:50.044 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success
+20:19:50.047 [main] INFO  testCases.TC_001_AccountRegistration - logging out from user details.....
+20:19:51.937 [main] INFO  testCases.TC_001_AccountRegistration - logging out from my account
+20:19:51.937 [main] INFO  testCases.TC_001_AccountRegistration - Finished testcase of TC_001_AccountRegistration
+20:19:57.954 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+20:19:58.063 [main] INFO  testCases.TC_002_Login - starting TC_002_Login......
+20:20:11.521 [main] INFO  testCases.TC_002_Login - Clicked on login
+20:20:11.667 [main] INFO  testCases.TC_002_Login - provided email
+20:20:11.775 [main] INFO  testCases.TC_002_Login - provided password
+20:20:12.583 [main] INFO  testCases.TC_002_Login - clicked on login
+20:20:23.195 [main] ERROR testCases.TC_002_Login - login failed
+15:30:32.223 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+15:30:32.364 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:30:32.364 [main] INFO  testCases.TC_001_AccountRegistration - opening app url.....
+15:30:34.946 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on Registration link
+15:30:35.602 [main] INFO  testCases.TC_001_AccountRegistration - Providing user details.....
+15:30:35.760 [main] INFO  testCases.TC_001_AccountRegistration - Provided first Name
+15:30:35.896 [main] INFO  testCases.TC_001_AccountRegistration - Provided last name
+15:30:35.980 [main] INFO  testCases.TC_001_AccountRegistration -  provide email
+15:30:36.089 [main] INFO  testCases.TC_001_AccountRegistration - providing password
+15:30:36.165 [main] INFO  testCases.TC_001_AccountRegistration - providing confirm password
+15:30:39.519 [main] INFO  testCases.TC_001_AccountRegistration - Registration going on
+15:30:39.548 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success
+15:30:39.551 [main] INFO  testCases.TC_001_AccountRegistration - logging out from user details.....
+15:30:40.502 [main] INFO  testCases.TC_001_AccountRegistration - logging out from my account
+15:30:40.503 [main] INFO  testCases.TC_001_AccountRegistration - Finished testcase of TC_001_AccountRegistration
+15:30:43.041 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+15:30:43.047 [main] INFO  testCases.TC_002_Login - starting TC_002_Login......
+15:30:51.363 [main] INFO  testCases.TC_002_Login - Clicked on login
+15:30:51.447 [main] INFO  testCases.TC_002_Login - provided email
+15:30:51.522 [main] INFO  testCases.TC_002_Login - provided password
+15:30:52.069 [main] INFO  testCases.TC_002_Login - clicked on login
+15:31:02.114 [main] ERROR testCases.TC_002_Login - login failed
+15:45:47.630 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+15:45:47.719 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:45:47.719 [main] INFO  testCases.TC_001_AccountRegistration - opening app url.....
+15:45:51.860 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on Registration link
+15:45:52.844 [main] INFO  testCases.TC_001_AccountRegistration - Providing user details.....
+15:45:52.951 [main] INFO  testCases.TC_001_AccountRegistration - Provided first Name
+15:45:53.025 [main] INFO  testCases.TC_001_AccountRegistration - Provided last name
+15:45:53.168 [main] INFO  testCases.TC_001_AccountRegistration -  provide email
+15:45:53.286 [main] INFO  testCases.TC_001_AccountRegistration - providing password
+15:45:53.365 [main] INFO  testCases.TC_001_AccountRegistration - providing confirm password
+15:45:54.725 [main] INFO  testCases.TC_001_AccountRegistration - Registration going on
+15:45:55.406 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success
+15:45:55.409 [main] INFO  testCases.TC_001_AccountRegistration - logging out from user details.....
+15:45:56.407 [main] INFO  testCases.TC_001_AccountRegistration - logging out from my account
+15:45:56.407 [main] INFO  testCases.TC_001_AccountRegistration - Finished testcase of TC_001_AccountRegistration
+15:45:59.742 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+15:45:59.747 [main] INFO  testCases.TC_002_Login - starting TC_002_Login......
+15:46:05.330 [main] INFO  testCases.TC_002_Login - Clicked on login
+15:46:05.444 [main] INFO  testCases.TC_002_Login - provided email
+15:46:05.517 [main] INFO  testCases.TC_002_Login - provided password
+15:46:06.816 [main] INFO  testCases.TC_002_Login - clicked on login
+15:46:06.897 [main] INFO  testCases.TC_002_Login - Login success
+15:46:06.897 [main] INFO  testCases.TC_002_Login - finished TC_002_Login
+16:06:44.112 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+16:06:44.138 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+16:06:44.139 [main] INFO  testCases.TC_001_AccountRegistration - opening app url.....
+16:06:52.295 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on Registration link
+16:06:54.686 [main] INFO  testCases.TC_001_AccountRegistration - Providing user details.....
+16:06:54.993 [main] INFO  testCases.TC_001_AccountRegistration - Provided first Name
+16:06:55.072 [main] INFO  testCases.TC_001_AccountRegistration - Provided last name
+16:06:55.169 [main] INFO  testCases.TC_001_AccountRegistration -  provide email
+16:06:55.250 [main] INFO  testCases.TC_001_AccountRegistration - providing password
+16:06:55.327 [main] INFO  testCases.TC_001_AccountRegistration - providing confirm password
+16:06:56.727 [main] INFO  testCases.TC_001_AccountRegistration - Registration going on
+16:06:56.878 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success
+16:06:56.881 [main] INFO  testCases.TC_001_AccountRegistration - logging out from user details.....
+16:06:57.859 [main] INFO  testCases.TC_001_AccountRegistration - logging out from my account
+16:06:57.859 [main] INFO  testCases.TC_001_AccountRegistration - Finished testcase of TC_001_AccountRegistration
+16:07:01.019 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+16:07:01.025 [main] INFO  testCases.TC_002_Login - starting TC_002_Login......
+16:07:05.657 [main] INFO  testCases.TC_002_Login - Clicked on login
+16:07:05.745 [main] INFO  testCases.TC_002_Login - provided email
+16:07:05.823 [main] INFO  testCases.TC_002_Login - provided password
+16:07:06.699 [main] INFO  testCases.TC_002_Login - clicked on login
+16:07:06.783 [main] INFO  testCases.TC_002_Login - Login success
+16:07:06.783 [main] INFO  testCases.TC_002_Login - finished TC_002_Login
